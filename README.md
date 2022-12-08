@@ -22,7 +22,8 @@ Create, Read, Update and Deleted data with mongoose.
 
 ## Instructions_
 
-#### 1. node app.js
+#### 1. To run node app 
+    node app.js
 
 #### 2. How to use mongoose
     https://mongoosejs.com/docs/queries.html
